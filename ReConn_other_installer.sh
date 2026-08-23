@@ -15,7 +15,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 
-LINK="https://raw.githubusercontent.com/Justice57201/ReConn_other/main"
+LINK="https://raw.githubusercontent.com/WRQC343/ReConn_gfn/main"
 INSTALL_DIR="/etc/asterisk/local/ReConn"
 MARKER_FILE="$INSTALL_DIR/.installed"
 CRON_CMD="$INSTALL_DIR/ReConn.sh"
