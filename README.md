@@ -3,7 +3,7 @@
 ![Release Version](https://img.shields.io/badge/Version-v1.5.0-blue?color=blue)
 ![OS Version](https://img.shields.io/badge/OS-Linux_*_Hamvoip-red?color=red)
 
-# ReConn
+# ReConn - G.F.N
 
 This Script is designed to help with connection drops to keep you connected to the server.   
 This Script is tailored for users from the GMRS Freedom Nation network.
