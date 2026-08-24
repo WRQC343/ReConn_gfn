@@ -2,6 +2,7 @@
 ![Logo](https://gmrs-link.com/images/link-scripting_50_1_50.png)   
 ![Release Version](https://img.shields.io/badge/Version-v1.5.0-blue?color=blue)
 ![OS Version](https://img.shields.io/badge/OS-Linux_*_Hamvoip-red?color=red)
+![OS Version](https://img.shields.io/badge/Network_-_G.F.N-orange?color=orange)
 
 # ReConn - G.F.N
 
